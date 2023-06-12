@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Github App</string>
+
+    <string name="uname">Username</string>
+    <string name="name">Name</string>
+    <string name="follower_count">%d followers</string>
+    <string name="following_count">%d following</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+
+    <string name="detail_section">Detail User</string>
+    <string name="follow_icon">Follow icon</string>
+
+    <string name="favorite_fab">Favorite FAB</string>
+    <string name="favorites">Favorites</string>
+    <string name="settings">Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
